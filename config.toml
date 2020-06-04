@@ -1,0 +1,137 @@
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+title = "Infinity Comming Soon Template By Themefisher"
+theme = "infinity-hugo"
+removePathAccents = true
+[params]
+
+# HTML before the closing </head>
+customHead = ""
+
+# Navigation
+[params.navigation]
+logo = "images/fostercomm_logo.png"
+home = "Home"
+about = "About"
+service = "Services"
+contact = "Contact"
+
+# Hero Area
+[params.hero]
+enable            = true
+bg                = "images/header-bg.jpg"
+title             = "Foster Communications, LLC"
+subtitle          = "The future is calling!  Are you ready?"
+btnText           = "Learn More"
+
+# counter
+disableCountdown  = false
+countdownYear = "2020"
+countdownMonth = "08"
+countdownDay  = "01"
+
+# About Section
+[params.about]
+enable      = true
+heading     = "Foster Communications, LLC (FosterComm) was founded on a simple idea--provide better, more reliable internet."
+description = "Locally owned and operated, FosterComm understands the frustrations of having poor to non-existant internet.  Together, we hope that those frustrations will soon be a distant memory of the past for all members of our community."
+
+[[params.about.sliderItem]]
+image   = "images/about/trex.gif"
+[[params.about.sliderItem]]
+image   = "images/about/grumpy_cat.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/excited_toddler.gif"
+[[params.about.sliderItem]]
+image   = "images/about/excited_kid.gif"
+
+
+# Service Section
+[params.service]
+enable      = true
+title       = "What makes us better?"
+subtitle    = ""
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-chat"
+title   = "Community Support"
+description = "Get help from your neighbor, or lend a helping hand. Our community knows no boundaries."
+delay   = "0s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-speedometer"
+title   = "Speed Optimized"
+description = "Experience real broadband. Stream movies and TV shows in 4k. Browse with ease."
+delay   = "0.2s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-anchor2"
+title   = "Community Dedication"
+description = "Locally owned and operated. Dedicated to imporoving and uplifting the Foster Community."
+delay   = "0.4s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-refresh"
+title   = "Continuously Evolving"
+description = "As technology changes, so will our services.  The sky is the limit."
+delay   = "0.6s"
+
+#[[params.service.serviceItem]]
+## give icon(themefisher icon font), title, description
+## more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+## use delay for reveal items one by one
+#icon    = "tf-strategy"
+#title   = "Fully Responsive"
+#description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#delay   = "0.8s"
+#
+#[[params.service.serviceItem]]
+## give icon(themefisher icon font), title, description
+## more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+## use delay for reveal items one by one
+#icon    = "tf-circle-compass"
+#title   = "Speed Optimized"
+#description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#delay   = "1s"
+#
+#[[params.service.serviceItem]]
+## give icon(themefisher icon font), title, description
+## more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+## use delay for reveal items one by one
+#icon    = "tf-anchor2"
+#title   = "Tons of Feature"
+#description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#delay   = "1.2s"
+#
+#[[params.service.serviceItem]]
+## give icon(themefisher icon font), title, description
+## more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+## use delay for reveal items one by one
+#icon    = "tf-globe"
+#title   = "Fully SEO Optimized"
+#description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#delay   = "1.5s"
+
+
+# Call to Action Section
+[params.cta]
+enable      = false
+bg          = "images/call-to-action.jpg"
+title       = "Subscribe to our mailing list"
+subtitle    = "Get updates in your inbox"
+
+[params.contact]
+enable      = true
+title       = "Get In Touch"
+subtitle    = "Interested in service or have a question? Use the form below to drop us a line, and someone will follow up with you soon."
