@@ -38,12 +38,12 @@ description = "Locally owned and operated, FosterComm understands the frustratio
 
 [[params.about.sliderItem]]
 image   = "images/about/trex.gif"
-[[params.about.sliderItem]]
-image   = "images/about/grumpy_cat.jpg"
-[[params.about.sliderItem]]
-image   = "images/about/excited_toddler.gif"
-[[params.about.sliderItem]]
-image   = "images/about/excited_kid.gif"
+#[[params.about.sliderItem]]
+#image   = "images/about/grumpy_cat.jpg"
+#[[params.about.sliderItem]]
+#image   = "images/about/excited_toddler.gif"
+#[[params.about.sliderItem]]
+#image   = "images/about/excited_kid.gif"
 
 
 # Service Section
