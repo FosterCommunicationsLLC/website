@@ -21,11 +21,11 @@ contact = "Contact"
 enable            = true
 bg                = "images/header-bg.jpg"
 title             = "Foster Communications, LLC"
-subtitle          = "The future is calling!  Are you ready?"
+subtitle          = "The future is here!"
 btnText           = "Learn More"
 
 # counter
-disableCountdown  = false
+disableCountdown  = true
 countdownYear = "2020"
 countdownMonth = "08"
 countdownDay  = "01"
