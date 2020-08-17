@@ -51,7 +51,7 @@ image   = "images/about/trex.gif"
 enable      = true
 title       = "What makes us better?"
 subtitle    = ""
-[[params.service.serviceItem]]
+#[[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
