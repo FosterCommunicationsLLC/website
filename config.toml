@@ -55,10 +55,10 @@ subtitle    = ""
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon    = "tf-chat"
-title   = "Community Support"
-description = "Get help from your neighbor, or lend a helping hand. Our community knows no boundaries."
-delay   = "0s"
+#icon    = "tf-chat"
+#title   = "Community Support"
+#description = "Get help from your neighbor, or lend a helping hand. Our community knows no boundaries."
+#delay   = "0s"
 
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
@@ -66,7 +66,16 @@ delay   = "0s"
 # use delay for reveal items one by one
 icon    = "tf-speedometer"
 title   = "Speed Optimized"
-description = "Experience real broadband. Stream movies and TV shows in 4k. Browse with ease."
+description = "Experience real broadband, 25 Mbps down. Stream video in 4k. Game like a pro. Browse with ease."
+delay   = "0.2s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-linegraph"
+title   = "Unlimited Data"
+description = "Consume as much as you'd like.  We will never throttle you for using too much data."
 delay   = "0.2s"
 
 [[params.service.serviceItem]]
