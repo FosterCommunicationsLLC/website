@@ -38,8 +38,8 @@ description = "Locally owned and operated, FosterComm understands the frustratio
 
 [[params.about.sliderItem]]
 image   = "images/about/tim.jpg"
-[[params.about.sliderItem]]
-image   = "images/about/nanobeam_evening.jpg"
+#[[params.about.sliderItem]]
+#image   = "images/about/nanobeam_evening.jpg"
 #[[params.about.sliderItem]]
 #image   = "images/about/trex.gif"
 #[[params.about.sliderItem]]
