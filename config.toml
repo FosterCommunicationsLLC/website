@@ -26,9 +26,9 @@ btnText           = "Learn More"
 
 # counter
 disableCountdown  = true
-countdownYear = "2020"
-countdownMonth = "08"
-countdownDay  = "01"
+#countdownYear = "2020"
+#countdownMonth = "08"
+#countdownDay  = "01"
 
 # About Section
 [params.about]
