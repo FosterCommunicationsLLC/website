@@ -37,7 +37,9 @@ heading     = "Foster Communications, LLC (FosterComm) was founded on a simple i
 description = "Locally owned and operated, FosterComm understands the frustrations of having poor to non-existant internet.  Together, we hope that those frustrations will soon be a distant memory of the past for all members of our community."
 
 [[params.about.sliderItem]]
-image   = "images/about/trex.gif"
+image   = "images/about/tim.jpg"
+#[[params.about.sliderItem]]
+#image   = "images/about/trex.gif"
 #[[params.about.sliderItem]]
 #image   = "images/about/grumpy_cat.jpg"
 #[[params.about.sliderItem]]
