@@ -49,8 +49,8 @@ image   = "images/about/trex.gif"
 # Service Section
 [params.service]
 enable      = true
-title       = "What makes us better?"
-subtitle    = ""
+title       = "What We Offer"
+subtitle    = "25 Mbps/5 Mbps (down/up) for $100/mo."
 #[[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
